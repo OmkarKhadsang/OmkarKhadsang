@@ -5,9 +5,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Omkar+Khadsang;Azure+AI+Data+Engineer;Azure+Data+Factory+%7C+Databricks+%7C+Synapse;Microsoft+Fabric+Enthusiast;Building+AI-Powered+Data+Solutions;Always+Learning+and+Innovating" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 </p>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ---
 
