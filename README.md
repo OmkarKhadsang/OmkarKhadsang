@@ -61,14 +61,14 @@
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-107C10?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![AI-Powered Data Solutions](https://img.shields.io/badge/AI--Powered_Data_Solutions-005FB8?style=for-the-badge&logo=microsoft&logoColor=white)
 
-#### ⚙️ ** DevOps & Version Control**
+#### ⚙️ **DevOps & Version Control**
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 
-#### 📊 ** Data Analytics & Visualization**
+#### 📊 **Data Analytics & Visualization**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
