@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Omkar Khadsang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Omkaar Khadsang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">🤖 AI Azure Data Engineer | Turning Data into Insights 🚀</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Omkar+Khadsang;Azure+AI+Data+Engineer;Azure+Data+Factory+%7C+Databricks+%7C+Synapse;Microsoft+Fabric+Enthusiast;Building+AI-Powered+Data+Solutions;Always+Learning+and+Innovating" />
